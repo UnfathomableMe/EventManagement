@@ -43,7 +43,7 @@ The project is Event Management System Model having following functionalities-
 
 1. Clone the github repository.
 
-  "https://github.com/neu-mis-info6150-fall-2022/final-project-gryffindor.git"
+  "https://github.com/UnfathomableMe/EventManagement.git"
 
 2. Change directory to eventapp 
 
